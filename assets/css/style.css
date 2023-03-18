@@ -15,9 +15,8 @@ main {
     width: 100%;
     min-height: 100vh;
     overflow: hidden;
-    background-image: url(/media/fundo_inicial.png);
-    background-position: bottom;
     padding: 2rem;
+    background: linear-gradient(to top left, #155666, #EED49E);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -60,7 +59,8 @@ main {
     width: 55%;
     left: 45%;
     top: 0;
-    background-color: #151111;
+    background-image: url(../../media/fundo_inicial.png);
+    background-position: bottom;
     border-radius: 2rem;
     overflow: hidden;
     transition: 0.8s ease-in-out;
