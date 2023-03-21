@@ -8,6 +8,6 @@ assets -> images -> logo, icones e afíns. ( usado para a segurança e manter os
 // </br>
 media -> qualquer arquivo de mídia no qual qualquer um pode ver ( quando inspecionado ). </br></br>
 
-index.html / style.css / script.js -> São os principais  de preferencia usados na página inicial ou na principal. </br>
+login.html / style.css / script.js -> São os principais  de preferencia usados na página inicial ou na principal. </br>
 
 vamos usar todas as imagens em .PNG </br>
